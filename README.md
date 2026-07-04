@@ -1,19 +1,9 @@
-# yup-sed
+[![actions](https://github.com/yupsh/yup-sed/actions/workflows/actions.yml/badge.svg)](https://github.com/yupsh/yup-sed/actions/workflows/actions.yml)
+[![ci](https://github.com/yupsh/yup-sed/actions/workflows/ci.yml/badge.svg)](https://github.com/yupsh/yup-sed/actions/workflows/ci.yml)
+[![dockerfiles](https://github.com/yupsh/yup-sed/actions/workflows/dockerfiles.yml/badge.svg)](https://github.com/yupsh/yup-sed/actions/workflows/dockerfiles.yml)
+[![docs](https://github.com/yupsh/yup-sed/actions/workflows/docs.yml/badge.svg)](https://github.com/yupsh/yup-sed/actions/workflows/docs.yml)
+[![go](https://github.com/yupsh/yup-sed/actions/workflows/go.yml/badge.svg)](https://github.com/yupsh/yup-sed/actions/workflows/go.yml)
+[![release](https://github.com/yupsh/yup-sed/actions/workflows/release.yml/badge.svg)](https://github.com/yupsh/yup-sed/actions/workflows/release.yml)
+[![shell](https://github.com/yupsh/yup-sed/actions/workflows/shell.yml/badge.svg)](https://github.com/yupsh/yup-sed/actions/workflows/shell.yml)
 
-```
-NAME:
-   sed - stream editor for filtering and transforming text
-
-USAGE:
-   sed SCRIPT [FILE...]
-
-   Apply the s/pattern/replacement/[flags] SCRIPT to each FILE.
-   When no FILE is specified, read from standard input.
-
-VERSION:
-   dev
-
-GLOBAL OPTIONS:
-   --help, -h  show help
-   --version   print version information and exit
-```
+[docs](https://yupsh.github.io/docs.repl/)
