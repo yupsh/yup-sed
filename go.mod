@@ -3,8 +3,8 @@ module github.com/yupsh/yup-sed
 go 1.26.4
 
 require (
-	github.com/gloo-foo/cli v0.1.5
-	github.com/gloo-foo/cmd-sed v0.1.1
+	github.com/gloo-foo/cli v0.1.8
+	github.com/gloo-foo/cmd-sed v0.1.5
 	github.com/spf13/afero v1.15.0
 	github.com/urfave/cli/v3 v3.10.1
 )
